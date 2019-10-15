@@ -1,0 +1,10 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<ControllerSettings>
+  <BoilerSwitch Idx="2"/>
+  <TrvDetails>
+    <TRV Name="Boys Bedroom" TemperatureIdx="6" SetPointIdx="5" ThermostatIdx="17" />
+    <TRV Name="Hallway"  TemperatureIdx="13" SetPointIdx="12" ThermostatIdx="18" />
+    <TRV Name="Kitchen" TemperatureIdx="16" SetPointIdx="15" ThermostatIdx="19" />
+    <TRV Name="Landing" TemperatureIdx="9" SetPointIdx="8" ThermostatIdx="20" />
+  </TrvDetails>  
+</ControllerSettings>
